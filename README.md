@@ -1,17 +1,16 @@
 # Fotogrametri-ucus-plani
-ucus-plani
-Bu kod aşağıdakileri hesaplar:
-  Resim Kenarının Arazideki Karşılığı (S)(uzun kenar)
-  Resim Kenarının Arazideki Karşılığı (S)(kısa kenar)
-  Bir resmin Arazide Kapladığı Alan (f)
-  %l Boyuna Örtü Oranında Baz Uzunluğu (B)
-  %q Enine Örtü Oranında Şeritler Arası Mesafe (A)
-  Stereoskopik Olarak Resmi Çekilen Alan (Fm)
-  Bloktaki Her Bir Stereomodel İçin Elde Edilen Yeni Alan (Fn)
-  Bir şeritteki resim sayısı(N)
-  Şerit sayısı (n)
-  Birbirini Takip Eden Resimler Arasındaki Süre (delta(t))
-  Bir Bloktaki Resim Sayısı
-  Şeritteki Model Sayısı
-  Toplam Model Sayısı
-  Toplam uçuş süresi
+Bu kod aşağıdakileri hesaplar: <br>
+•	  Resim Kenarının Arazideki Karşılığı (S)(uzun kenar)<br>
+•	  Resim Kenarının Arazideki Karşılığı (S)(kısa kenar)<br>
+•	  Bir resmin Arazide Kapladığı Alan (f)<br>
+•	  %l Boyuna Örtü Oranında Baz Uzunluğu (B)<br>
+•	  %q Enine Örtü Oranında Şeritler Arası Mesafe (A)<br>
+•	  Stereoskopik Olarak Resmi Çekilen Alan (Fm)<br>
+•	  Bloktaki Her Bir Stereomodel İçin Elde Edilen Yeni Alan (Fn)<br>
+•	  Bir şeritteki resim sayısı(N)<br>
+•	  Şerit sayısı (n)<br>
+•	  Birbirini Takip Eden Resimler Arasındaki Süre (delta(t))<br>
+•	  Bir Bloktaki Resim Sayısı<br>
+•	  Şeritteki Model Sayısı<br>
+•	 Toplam Model Sayısı<br>
+•	  Toplam uçuş süresi<br>
